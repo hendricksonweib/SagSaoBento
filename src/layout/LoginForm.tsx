@@ -16,10 +16,11 @@ export const LoginForm = () => {
       navigate("/dashboard");
     }
   };
+  
 
   return (
     <div className="bg-white p-8 rounded-lg shadow-md w-full max-w-sm">
-      <h1 className="text-2xl font-bold text-center text-blue-600 mb-1">SAG</h1>
+      <h1 className="text-2xl font-bold text-center text-blue-600 mb-1">SAG (São Bento)</h1>
       <p className="text-center text-sm text-gray-600 mb-6">
         Sistema de Avaliação e Gerenciamento
       </p>
